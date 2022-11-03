@@ -4,6 +4,12 @@
 <h1 align="center" style="font-weight: bolder;">Python-Tic-Tac-Toe</h2>
 <p align="center">A tic tac toe game made in python with 0 third party packages.</p>
 
+<p align="center">
+  <img alt="GitHub" src="https://img.shields.io/github/license/anmolplayzz/Python-Tic-Tac-Toe" align="center">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/anmolplayzz/Python-Tic-Tac-Toe" align="center">
+</p>
+
+
 ---
 
 <h2>What is this?</h2>
