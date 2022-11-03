@@ -36,4 +36,4 @@ The basic concept is as follows:
 
 ---
 
-Made with python and ♥ by @AnmolPlayzz and @iamaryaman
+Made with python and ♥ by @AnmolPlayzz and @iamaryaman.
