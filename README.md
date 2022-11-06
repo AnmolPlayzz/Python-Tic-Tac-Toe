@@ -20,6 +20,11 @@ A recreation of the popular game tic-tac-toe which can be played in the terminal
 
 It was a school project and we gotta flex on our friends 💀.
 
+<h2>Demo</h2>
+
+![Screenshot-455](https://user-images.githubusercontent.com/74979911/200168068-00f12fbe-ae2b-4eea-93a2-ac8aaa103c7a.gif)
+
+
 <h2>How does this work?</h2>
 
 The basic concept is as follows:
@@ -28,7 +33,8 @@ The basic concept is as follows:
 - To achieve this we reduce this number by 1
 
     ```py
-    n-1 #n -> number entered by the user```
+    n-1 #n -> number entered by the user
+    ```
 - Now, we set the index value of n-1 in the string as X.
 - This code displays the string in the grid format
     
