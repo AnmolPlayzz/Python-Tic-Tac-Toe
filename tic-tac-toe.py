@@ -208,7 +208,7 @@ Don't try to break our game -_-
         |   2. Aryaman Sharma                                    |
         |                                                        |
         |   XI - A                                               |
-        |   Source code available at:                     |
+        |   Source code available at:                            |
         |   https://github.com/AnmolPlayzz/Python-Tic-Tac-Toe    |
         |                                                        |
         |   LICENSED UNDER THE MIT LICENSE                       |
